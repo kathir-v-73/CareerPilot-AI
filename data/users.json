@@ -1,0 +1,32 @@
+{
+  "vkathir07032006@gmail.com": {
+    "password": "b9d132bfc27d744c83a7c6cbf8c339f69e709d782139c28c0d91f229d91df383",
+    "name": "kathir v",
+    "email": "vkathir07032006@gmail.com",
+    "profile": {
+      "name": "kathir v",
+      "skills": "python , sql, database design\n",
+      "experience_level": "Entry Level (0-2 years)",
+      "location": "Bangalore",
+      "industry": "Technology",
+      "interests": "data scientist ",
+      "auth_type": "email"
+    },
+    "auth_type": "email"
+  },
+  "user5491@gmail.com": {
+    "password": null,
+    "name": "Google User",
+    "email": "user5491@gmail.com",
+    "profile": {
+      "name": "Google User",
+      "skills": "",
+      "experience_level": "Entry Level (0-2 years)",
+      "location": "Any",
+      "industry": "Technology",
+      "interests": "",
+      "auth_type": "google"
+    },
+    "auth_type": "google"
+  }
+}
